@@ -1,6 +1,6 @@
 # Apple Uwaifo — Data + Finance + Creativity
 
-Economics student combining data analytics, finance, and creativity to uncover business insights.
+Undergraduate student @ University of Alberta combining data analytics, finance, and creativity to uncover business insights.
 
 ## 💼 Portfolio Overview
 - **Finance Projects:** Interactive dashboards, market analysis, and investment simulations  
